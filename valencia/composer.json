@@ -1,0 +1,16 @@
+{
+    "name": "c5labs/valencia",
+    "description": "Provides LDAP authentication with optional Google 2 Factor",
+    "type": "concrete5-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Ottley",
+            "email": "cottley@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "dev-concrete5-installation-path-updates"
+    }
+}
